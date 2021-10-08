@@ -1,5 +1,10 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+body {
+  height: 95vh;
+  width: 95vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: lightgray;
+  color: rgb(52, 165, 52)
 }
